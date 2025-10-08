@@ -2,14 +2,19 @@
 
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00E6FE&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Muhammad+Ashiq+👋;Front-End+Developer+💻;React+%7C+Firebase+%7C+Tailwind+CSS+⚡;Turning+Ideas+Into+Reality+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=800&color=00E6FE&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Muhammad+Ashiq+👋;Front-End+Developer+💻;React+%7C+Firebase+%7C+Tailwind+CSS+⚡;Turning+Ideas+Into+Reality+🚀" alt="Typing SVG" />
 </h1>
 
 ---
 
-<!-- Profile Picture -->
+<!-- Profile Picture with Caption -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/222374637?v=4" alt="Muhammad Ashiq" width="160" height="160" style="border-radius: 50%; border: 2px solid #00E6FE;" />
+  <img src="https://avatars.githubusercontent.com/u/222374637?v=4" 
+       alt="Muhammad Ashiq" 
+       width="170" 
+       style="border-radius: 50%; box-shadow: 0 0 20px #00E6FE; border: 3px solid #00E6FE;" />
+  <br/>
+  <sub style="font-size: 20px; color: #00E6FE; font-weight: 600;">Muhammad Ashiq</sub>
 </p>
 
 ---
