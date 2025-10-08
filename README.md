@@ -7,16 +7,6 @@
 
 ---
 
-<!-- Profile Picture with Caption -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/222374637?v=4" 
-       alt="Muhammad Ashiq" 
-       width="170" 
-       style="border-radius: 50%; box-shadow: 0 0 20px #00E6FE; border: 3px solid #00E6FE;" />
-  <br/>
-  <sub style="font-size: 20px; color: #00E6FE; font-weight: 600;">Muhammad Ashiq</sub>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me  
