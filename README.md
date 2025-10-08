@@ -1,20 +1,29 @@
-<!-- Animated Header -->
+<!-- 🌙 Dark Themed, Animated GitHub Profile README by Muhammad Ashiq -->
+
+<!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00E6FE&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Muhammad+Ashiq+👋;Front-End+Developer+💻;React+%7C+Firebase+%7C+Tailwind+CSS+⚡;Turning+ideas+into+reality+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00E6FE&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Muhammad+Ashiq+👋;Front-End+Developer+💻;React+%7C+Firebase+%7C+Tailwind+CSS+⚡;Turning+Ideas+Into+Reality+🚀" alt="Typing SVG" />
 </h1>
 
 ---
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/AshiqCode/AshiqCode/blob/main/banner-dark.png" alt="Muhammad Ashiq Banner" width="100%" />
+</p>
+
+---
+
 ### 🧑‍💻 About Me  
-💡 Passionate about building interactive web applications and exploring new technologies.  
-🎯 Focused on creating **clean, responsive, and modern UIs** with **React + Tailwind**.  
-🌱 Currently learning **Next.js** & **Firebase Realtime Database**.  
-📫 Email me at **muhammadashiq.dev@gmail.com**  
+💡 Passionate about building interactive, responsive, and aesthetic web applications.  
+🎯 Love turning **ideas into digital reality** using **React, Firebase, and Tailwind CSS**.  
+🌱 Currently learning **Next.js** and improving UI/UX skills.  
+📫 Reach me at **muhammadashiq.dev@gmail.com**  
 🎶 Fun fact: I code better when I’m listening to music 🎧  
 
 ---
 
-### 🛠️ Tech Stack  
+### ⚙️ Tech Stack  
 
 <p align="center">
   <!-- Languages -->
@@ -27,23 +36,23 @@
 
 ---
 
-### ⚙️ GitHub Analytics  
+### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshiqCode&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshiqCode&theme=github-dark&hide_border=true&border_radius=10" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshiqCode&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshiqCode&theme=github-dark&hide_border=true&border_radius=10" height="165px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqCode&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqCode&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="165px" />
 </p>
 
 ---
 
 ### 🚀 Current Projects  
 - ⚡ **React + Firebase App** for real-time data updates  
-- 🎨 **Tailwind Components** library for UI experiments  
-- 📘 **Personal Portfolio Website** (coming soon)  
+- 🎨 **Tailwind UI Component Library**  
+- 🌐 **Personal Portfolio Website (Coming Soon)**  
 
 ---
 
