@@ -27,9 +27,9 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,vite" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,vite" />
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
