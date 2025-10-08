@@ -7,9 +7,9 @@
 
 ---
 
-<!-- Banner -->
+<!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/222374637?v=4" alt="Muhammad Ashiq Banner" width="100%" height="60%" />
+  <img src="https://avatars.githubusercontent.com/u/222374637?v=4" alt="Muhammad Ashiq" width="160" height="160" style="border-radius: 50%; border: 2px solid #00E6FE;" />
 </p>
 
 ---
