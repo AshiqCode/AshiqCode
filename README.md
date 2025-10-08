@@ -9,7 +9,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/AshiqCode/AshiqCode/blob/main/banner-dark.png" alt="Muhammad Ashiq Banner" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/222374637?v=4" alt="Muhammad Ashiq Banner" width="100%" />
 </p>
 
 ---
