@@ -9,7 +9,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/222374637?v=4" alt="Muhammad Ashiq Banner" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/222374637?v=4" alt="Muhammad Ashiq Banner" width="100%" height="60%" />
 </p>
 
 ---
