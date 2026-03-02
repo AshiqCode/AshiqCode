@@ -8,8 +8,7 @@
 
 ### 🧑‍💻 About Me  
 💡 Passionate about building interactive, responsive, and aesthetic web applications.  
-🎯 Love turning **ideas into digital reality** using **React, Firebase, and Tailwind CSS**.  
-🌱 Currently learning **Next.js** and improving UI/UX skills.  
+🎯 Love turning **ideas into digital reality** using **React, Next.js, Supabase, and Tailwind CSS**.  
 📫 Reach me at **muhammadashiq.dev@gmail.com**  
 🎶 Fun fact: I code better when I’m listening to music 🎧  
 
@@ -41,10 +40,9 @@
 
 ---
 
-### 🚀 Current Projects  
-- ⚡ **React + Firebase App** for real-time data updates  
-- 🎨 **Tailwind UI Component Library**  
-- 🌐 **Personal Portfolio Website (Coming Soon)**  
+### 🚀 Recent Projects  
+- ⚡ **React + Supabase App**
+- 🎨 **Tailwind CSS **  
 
 ---
 
